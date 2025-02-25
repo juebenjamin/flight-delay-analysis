@@ -23,42 +23,55 @@ We will explore how factors like time of day, airline, airport congestion, and w
 
 ### 1. Clone the Repository
 To get a local copy of the project, run:
-``git clone https://github.com/<YourUserName>/flight-delay-analysis.git``
-``cd flight-delay-analysis``
-
+```bat
+git clone https://github.com/<YourUserName>/flight-delay-analysis.git
+cd flight-delay-analysis
+```
 ### 2. Set Up a Virtual Environment
 We recommend using a virtual environment to manage dependencies:
-``python -m venv venv``
-``source venv/bin/activate`` (On Windows: ``venv\Scripts\activate``)
+```bat
+python -m venv venv
+source venv/bin/activate (On Windows: venv\Scripts\activate)
+```
 
 ### 3. Install Dependencies
 We will maintain a `requirements.txt` file with necessary Python libraries. Once available, install dependencies using:
-``pip install -r requirements.txt``
+```bat
+pip install -r requirements.txt
+```
 
 ### 4. Explore the Folder Structure
+```
 This repository follows a structured approach for easy navigation:
-   flight-delay-analysis/
+flight-delay-analysis/
   ├── data/          # Contains raw and cleaned data files (or references to external datasets)
   ├── notebooks/     # Jupyter notebooks for EDA, modeling, and experimentation
   ├── scripts/       # Python scripts for data processing and ML models
   ├── docs/          # Documentation, reports, proposal slides, and references
   ├── .gitignore     # Git ignore rules for unnecessary files
   └── README.md      # Project overview and setup instructions
+```
 
 ### 5. Contribute to the Project
 Here’s how you can contribute to our collaborative workflow: 
 - **Create a New Branch**  
   Before making changes, create a new branch for your feature or experiment:
-  ``git checkout -b my-feature-branch``
+  ```bat
+  git checkout -b my-feature-branch
+  ```
 
 - **Make Your Changes and Commit**  
   After implementing changes, stage and commit them:
-  ``git add .``
-  ``git commit -m " Example - Added EDA notebook with initial visualizations - Example"``
+  ```bat
+  git add .
+  git commit -m "Added EDA notebook with initial visualizations"
+  ```
 
 - **Push to GitHub and Create a Pull Request**  
   Push your changes and open a pull request (PR) to merge into `main`:
-  ``git push origin my-feature-branch``
+  ```bat
+  git push origin my-feature-branch
+  ```
 
 - **Review and Merge**  
   Any Team members can review your PR before merging it into the `main` branch.
@@ -78,7 +91,7 @@ We will update this checklist as we make progress.
 | Ricky M   | fmass3@uic.edu  | @fmassa1   |
 | Sai C  | schit7@uic.edu  | @Sschittala   |
 | Maryann O | aolug3@uic.edu  | @MaryannO45  |
-| Matt J  | mwilkj2@uic.edu  | @github-handle5   |
+| Matt J  | mwilkj2@uic.edu  | @TODO  |
 | Jeremiah B | jbenj2@uic.edu  | @juebenjamin   |
 
 ## Acknowledgments
@@ -86,5 +99,3 @@ We will update this checklist as we make progress.
 - OpenSky and Flightradar24 for real-time tracking APIs
 - NOAA and OpenWeatherMap for weather data
 - CS 418 course instructors for guidance
-
-
