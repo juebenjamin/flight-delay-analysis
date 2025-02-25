@@ -8,7 +8,8 @@ This project aims to analyze and predict flight delays using a combination of:
 - **Real-time flight tracking** (OpenSky Network / Flightradar24)
 - **Weather conditions** (NOAA / OpenWeatherMap)
 - **Any other related datasets
-*_(This is tentative, and may change as the project progresses.)_*
+
+*_(This is tentative, and may change as the project progresses)_*
 
 
 We will explore how factors like time of day, airline, airport congestion, and weather influence delays, and build predictive models to forecast future delays. Ultimately, we plan to create an interactive dashboard that displays live delay predictions and historical trends.
