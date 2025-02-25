@@ -92,7 +92,7 @@ We will update this checklist as we make progress.
 | Ricky M   | fmass3@uic.edu  | @fmassa1   |
 | Sai C  | schit7@uic.edu  | @Sschittala   |
 | Maryann O | aolug3@uic.edu  | @MaryannO45  |
-| Matt J  | mwilkj2@uic.edu  | @TODO  |
+| Matt J  | mwilkj2@uic.edu  | @mattwilk1017  |
 | Jeremiah B | jbenj2@uic.edu  | @juebenjamin   |
 
 ## Acknowledgments
