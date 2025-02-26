@@ -36,7 +36,7 @@ source venv/bin/activate (On Windows: venv\Scripts\activate)
 ```
 
 ### 3. Install Dependencies
-We will maintain a `requirements.txt` file with necessary Python libraries. Once available, install dependencies using:
+We will maintain a `requirements.txt` file with necessary Python libraries. Once available, install dependencies inside your virtual environment using:
 ```bat
 pip install -r requirements.txt
 ```
