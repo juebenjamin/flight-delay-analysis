@@ -78,7 +78,7 @@ Here’s how you can contribute to our collaborative workflow:
   Any Team members can review your PR before merging it into the `main` branch.
 
 ## Project Status
-- [ ] Data Collection & Preprocessing  
+- [x] Data Collection & Preprocessing  
 - [ ] Exploratory Data Analysis (EDA)  
 - [ ] Machine Learning Model Development  
 - [ ] Interactive Dashboard Development  
