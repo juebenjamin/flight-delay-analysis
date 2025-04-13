@@ -47,7 +47,6 @@ This repository follows a structured approach for easy navigation:
 flight-delay-analysis/
   ├── data/          # Contains raw and cleaned data files (or references to external datasets)
   ├── notebooks/     # Jupyter notebooks for EDA, modeling, and experimentation
-  ├── scripts/       # Python scripts for data processing and ML models
   ├── docs/          # Documentation, reports, proposal slides, and references
   ├── .gitignore     # Git ignore rules for unnecessary files
   └── README.md      # Project overview and setup instructions
@@ -79,8 +78,8 @@ Here’s how you can contribute to our collaborative workflow:
 
 ## Project Status
 - [x] Data Collection & Preprocessing  
-- [ ] Exploratory Data Analysis (EDA)  
-- [ ] Machine Learning Model Development  
+- [x] Exploratory Data Analysis (EDA)  
+- [x] Machine Learning Model Development  
 - [ ] Interactive Dashboard Development  
 - [ ] Final Report & Presentation  
 
@@ -97,6 +96,4 @@ We will update this checklist as we make progress.
 
 ## Acknowledgments
 - Bureau of Transportation Statistics for historical flight data
-- OpenSky and Flightradar24 for real-time tracking APIs
-- NOAA and OpenWeatherMap for weather data
 - CS 418 course instructors for guidance
