@@ -80,7 +80,7 @@ Here’s how you can contribute to our collaborative workflow:
 - [x] Data Collection & Preprocessing  
 - [x] Exploratory Data Analysis (EDA)  
 - [x] Machine Learning Model Development  
-- [ ] Final Report & Presentation  
+- [x] Final Report & Presentation  
 
 We will update this checklist as we make progress.
 
